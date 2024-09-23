@@ -1,3 +1,9 @@
+/*
+Mohammed Vepari
+ID: 239698930
+Monday September 23rd 2024
+ */
+
 public class QuestionOne {
     public static double computeSeries(double i){
         // Base case

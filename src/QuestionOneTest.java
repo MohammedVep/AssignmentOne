@@ -1,3 +1,9 @@
+/*
+Mohammed Vepari
+ID: 239698930
+Monday September 23rd 2024
+ */
+
 public class QuestionOneTest {
     public static void main(String[] args) {
         // Display the result of the series fron 1 to 10
